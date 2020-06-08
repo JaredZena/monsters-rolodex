@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JaredZena/monsters-rolodex/static/css/main.f139f97e.chunk.css",
+    "main.js": "/JaredZena/monsters-rolodex/static/js/main.d7b65b15.chunk.js",
+    "main.js.map": "/JaredZena/monsters-rolodex/static/js/main.d7b65b15.chunk.js.map",
+    "runtime-main.js": "/JaredZena/monsters-rolodex/static/js/runtime-main.a7395b9c.js",
+    "runtime-main.js.map": "/JaredZena/monsters-rolodex/static/js/runtime-main.a7395b9c.js.map",
+    "static/js/2.a3c82928.chunk.js": "/JaredZena/monsters-rolodex/static/js/2.a3c82928.chunk.js",
+    "static/js/2.a3c82928.chunk.js.map": "/JaredZena/monsters-rolodex/static/js/2.a3c82928.chunk.js.map",
+    "index.html": "/JaredZena/monsters-rolodex/index.html",
+    "precache-manifest.f051805579daa634fa38489d517dabe0.js": "/JaredZena/monsters-rolodex/precache-manifest.f051805579daa634fa38489d517dabe0.js",
+    "service-worker.js": "/JaredZena/monsters-rolodex/service-worker.js",
+    "static/css/main.f139f97e.chunk.css.map": "/JaredZena/monsters-rolodex/static/css/main.f139f97e.chunk.css.map",
+    "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/JaredZena/monsters-rolodex/static/js/2.a3c82928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7395b9c.js",
+    "static/js/2.a3c82928.chunk.js",
+    "static/css/main.f139f97e.chunk.css",
+    "static/js/main.d7b65b15.chunk.js"
+  ]
+}
